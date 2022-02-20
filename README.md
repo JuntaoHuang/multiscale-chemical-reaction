@@ -16,7 +16,7 @@ The idea of the PPF technique is to progressively determine the network paramete
 
   
 
-- regression: this folder constains the code for multiscale nonlinear regression problem in Section 2 in the [paper](https://arxiv.org/abs/2101.06589)
+- regression: this folder constains the code for multiscale nonlinear regression problem in Section 2 in the paper
 
 ```sh
 cd regression
@@ -25,7 +25,7 @@ python regression.py
 
   
 
-- reaction: this folder constains the code for learning multiscale chemical reactions in Section 4 in the [paper](https://arxiv.org/abs/2101.06589)
+- reaction: this folder constains the code for learning multiscale chemical reactions in Section 4 in the paper
 
 ```sh
 cd reaction
