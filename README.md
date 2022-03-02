@@ -34,4 +34,4 @@ python multiscale_reaction.py
   
 
 ## Cite
-J. Huang, Y. Zhou, and W.-A. Yong. [Data-driven discovery of multiscale chemical reactions governed by the law of mass action](https://www.sciencedirect.com/science/article/pii/S0021999121006380), Journal of Computational Physics, 448, 110743, 2022.
+J. Huang, Y. Zhou, and W.-A. Yong. [Data-driven discovery of multiscale chemical reactions governed by the law of mass action](https://www.sciencedirect.com/science/article/pii/S0021999121006380), *Journal of Computational Physics*, 448, 110743, 2022.
